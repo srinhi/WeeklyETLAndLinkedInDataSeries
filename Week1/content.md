@@ -1,6 +1,6 @@
 # Week 1: NYC HPD Housing Complaints (July 2026)
 
-**Source:** [NYC Open Data — 311 Service Requests](https://data.cityofnewyork.us/resource/erm2-nwe9.json), filtered to HPD (Department of Housing Preservation and Development) complaints, pulled via the Socrata API. *(July records only)*
+**Source:** [NYC Open Data — 311 Service Requests]([https://data.cityofnewyork.us/resource/erm2-nwe9.json](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2020-to-Present/erm2-nwe9/about_data)), filtered to HPD (Department of Housing Preservation and Development) complaints, pulled via the Socrata API. *(July records only)*
 
 **Stack:** Python, pandas, matplotlib
 
